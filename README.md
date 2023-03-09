@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sukrutrahane
-- 👀 I’m interested in AI and Competitive Programming
-- 🌱 I’m currently learning Machine Learning
+
 
 
 <!---
