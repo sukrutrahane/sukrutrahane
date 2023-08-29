@@ -1,17 +1,6 @@
 
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[SUKRUT RAHANE](https://github.com/Spyware007) <img src="./img/wave.gif" width="30px" height="30px" />
 
-![Profile views](https://gpvc.arturio.dev/sukrutrahane)
-
-</br>
-	
-   <br />
-  
-<br/>  
-
-
-
-
 # About Me <img src="./img/about.gif" height="48px">
 
 I am Sukrut Rahane, currently in 3rd year pursuing AI & Data Science Engineering from D.Y. Patil College Of Engineering, Pune. <br />
