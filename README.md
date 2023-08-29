@@ -3,10 +3,14 @@
 
 # About Me <img src="./img/about.gif" height="48px">
 
-I am Sukrut Rahane, currently in 3rd year pursuing AI & Data Science Engineering from D.Y. Patil College Of Engineering, Pune. <br />
-I'm a software engineer deeply immersed in the worlds of AI and data science. I'm captivated by the potential of technology to transform industries and lives, whether it's through coding elegant solutions or deciphering intricate data patterns.<br />
-When I'm not shaping algorithms, I'm grooving to the beats of EDM and Techno. Just as I craft code, I find resonance in the layered melodies of electronic music. Both domains, in their own ways, inspire me to innovate and create.<br />
-Join me as I navigate the confluence of logic and creativity, striving to forge a future where innovation harmonizes with self-expression.
+Hey there! I am Sukrut Rahane, currently in Third Year pursuing AI & Data Science Engineering from D.Y. Patil College Of Engineering, Pune. <br />
+
+A Software Engineer deeply immersed in the worlds of AI and Data Science. I'm captivated by the potential of technology to transform industries and lives, whether it's through coding elegant solutions or deciphering intricate data patterns.<br />
+
+When I'm not shaping algorithms, I'm grooving to the beats of EDM and Techno. Just as I craft code, I find resonance in the layered melodies of electronic music. Both domains, in their own ways, inspire me to 
+innovate and create.<br />
+
+Join me as I navigate the confluence of logic and creativity, striving to forge a future where innovation harmonizes with self-expression.<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
