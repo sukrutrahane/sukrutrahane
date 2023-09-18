@@ -1,5 +1,5 @@
 
-# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[SUKRUT RAHANE](https://github.com/sukrtrahane) <img src="./img/wave.gif" width="30px" height="30px" />
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[SUKRUT RAHANE](https://github.com/sukrutrahane) <img src="./img/wave.gif" width="30px" height="30px" />
 
 # About Me <img src="./img/about.gif" height="48px">
 
