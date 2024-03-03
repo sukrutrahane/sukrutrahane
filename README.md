@@ -7,7 +7,7 @@ Hey there! I am Sukrut Rahane, currently in Third Year pursuing AI & Data Scienc
 
 A Software Engineer deeply immersed in the worlds of AI and Data Science. I'm captivated by the potential of technology to transform industries and lives, whether it's through coding elegant solutions or deciphering intricate data patterns.<br />
 
-When I'm not shaping algorithms, I'm grooving to the beats of EDM and Techno. Just as I craft code, I find resonance in the layered melodies of electronic music. Both domains, in their own ways, inspire me to 
+When I'm not shaping algorithms, I'm grooving to the beats of Techno music. Just as I craft code, I find resonance in the layered melodies of electronic music. Both domains, in their own ways, inspire me to 
 innovate and create.<br />
 
 Join me as I navigate the confluence of logic and creativity, striving to forge a future where innovation harmonizes with self-expression.<br/>
