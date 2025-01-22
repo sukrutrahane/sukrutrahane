@@ -53,9 +53,3 @@ innovate and create.<br />
 
 
 [![An image of @sukrutrahane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sukrutrahane)](https://holopin.io/@sukrutrahane)
-
-Leave a ⭐ from [here](https://github.com/sukrutrahane/sukrutrahane) if you like 😁
-
-I tweet sometimes
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/sukrutrahane?style=social&logo=twitter)](https://twitter.com/sukrutrahane)
