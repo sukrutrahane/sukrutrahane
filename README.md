@@ -3,12 +3,11 @@
 
 # About Me <img src="./img/about.gif" height="48px">
 
-Hey there! I am Sukrut Rahane, currently in Last Year pursuing AI & Data Science Engineering from D.Y. Patil College Of Engineering, Pune. <br />
+Hey there! I am Sukrut Rahane, currently working at LTIMindtree as a Graduate Engineer Trainee.<br />
+
+I have graduated in AI & Data Science Engineering from D.Y. Patil College Of Engineering, Pune. <br />
 
 I'm a Software Engineer with an expertise in AI and Data Science. I'm captivated by the potential of technology to transform industries and lives, whether it's through coding elegant solutions or deciphering intricate data patterns.<br />
-
-When I'm not shaping algorithms, I'm grooving to the beats of Techno music. Just as I craft code, I find resonance in the layered melodies of electronic music. Both domains, in their own ways, inspire me to 
-innovate and create.<br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
